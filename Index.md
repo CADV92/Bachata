@@ -29,3 +29,14 @@
 8. <a href="./beginner-L2/8_Arm_opts.md">Some Arm Options for Your Bachata Basic</a>
 9. <a href="./beginner-L2/9_Patterns.md">Patterns for Practice</a>
 
+### Level 3
+
+1. <a href="./beginner-L3/1_Chest_isolations.md">Chest Isolations</a>
+2. <a href="./beginner-L3/2_Hip_isolations.md">Hip Isolations</a>
+3. <a href="./beginner-L3/3_Learning_frntBodyRoll.md">Learning the Front Body Roll</a>
+4. <a href="./beginner-L3/4_Side_BodyRoll.md">The Side Body Roll (From Shoulder)</a>
+5. <a href="./beginner-L3/5_s2s_BodyRoll.md">The Side to Side Body Roll</a>
+6. <a href="./beginner-L3/6_Front_BodyRoll_wPartner.md">Doing the Front Body Roll With a Partner</a>
+7. <a href="./beginner-L3/7_doing_sideBodyRoll_wPartner.md">Doing the Side Body Roll (From Shoulder) With a Partner</a>
+8. <a href="./beginner-L3/8_s2s_sideBoryRoll_wPartner.md">Doing the Side to Side Body Roll With a Partner</a>
+9. <a href="./beginner-L3/9_Patterns.md">Patterns for Practice</a>
