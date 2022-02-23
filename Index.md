@@ -17,3 +17,15 @@
 11. <a href="./beginner-L1/Change_places.md">Let's Learn How to Change Places</a>
 12. <a href="./beginner-L1/Patterns.md">Patterns for Practice</a>
 
+### Level 2
+
+1. <a href="./beginner-L1/1_nwBasic_steps.md">Let's Learn 3 New Basic Steps</a>
+2. <a href="./beginner-L1/2_nwBasic_wPartner.md">Your 3 New Basics With a Partner</a>
+3. <a href="./beginner-L1/3_mnCombos.md">Mini Combos for Your 3 New Basic Steps</a>
+4. <a href="./beginner-L1/4_mnCombos_wPartner.md">Doing Your Mini Combos With a Partner</a>
+5. <a href="./beginner-L1/5_Travel_and_angles.md">How to Travel at Angles in Your Basic</a>
+6. <a href="./beginner-L1/6_Traveling_angles_wPartner.md">Traveling at Angles With a Partner</a>
+7. <a href="./beginner-L1/7_Opts_BachataTap.md">Options for Your Bachata Tap</a>
+8. <a href="./beginner-L1/8_Arm_opts.md">Some Arm Options for Your Bachata Basic</a>
+9. <a href="./beginner-L1/9_Patterns.md">Patterns for Practice</a>
+
