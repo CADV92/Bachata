@@ -69,3 +69,16 @@
 7. <a href="./intermediate-L2/7_dncDifferent_partsSong.md">How to Dance to Different Parts of a Song</a>
 8. <a href="./intermediate-L2/8_musicality_wPierreHenrry.md">Guest Workshop: Bachata Musicality with Pierre Henry</a>
 9. <a href="./intermediate-L2/9_Patterns.md">Patterns for Practice</a>
+
+### Level 3: Body Isolations & Dips
+
+1. <a href="./intermediate-L3/1_position_inBachata.md">Let's Talk More About Positions You Can Use in Bachata</a>
+2. <a href="./intermediate-L3/2_nwBodyIsolations.md">New Body Isolations</a>
+3. <a href="./intermediate-L3/3_nwIsolations_wPartner.md">Doing Your New Isolations With a Partner</a>
+4. <a href="./intermediate-L3/4_Chest_HipIsolations_wPartner.md">Doing Chest & Hip Isolations With a Partner</a>
+5. <a href="./intermediate-L3/5_Famous_Dip.md">The Famous Dip</a>
+6. <a href="./intermediate-L3/6_How2do_FullUpperBodyDips.md">How to Do Full Upper Body Dips (Zouk & Waterfall)</a>
+7. <a href="./intermediate-L3/7_How2_addOff-Center_Leans.md">How to Add Off-Center Leans to Your Dancing</a>
+8. <a href="./intermediate-L3/8_BodyRolls_useDiffLvls.md">Body Rolls Using Different Levels With a Partner</a>
+9. <a href="./intermediate-L3/9_ShadowPosition.md">Using the Shadow Position: Turning Your Back to Your Partner</a>
+10.<a href="./intermediate-L3/10_Patterns.md"> Patterns For Practice</a>
