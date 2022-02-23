@@ -82,3 +82,18 @@
 8. <a href="./intermediate-L3/8_BodyRolls_useDiffLvls.md">Body Rolls Using Different Levels With a Partner</a>
 9. <a href="./intermediate-L3/9_ShadowPosition.md">Using the Shadow Position: Turning Your Back to Your Partner</a>
 10.<a href="./intermediate-L3/10_Patterns.md"> Patterns For Practice</a>
+
+## Bachata Advanced
+
+### Level 1: Advanced Spin Techniques
+
+1. <a href="./advanced-L1/1_Cncpt_FreeSpinning.md">The Concept of Free Spinning<a>
+2. <a href="./advanced-L1/2_SharpStopsTurning.md">The Sharp Stops Concept<a>
+3. <a href="./advanced-L1/3_doMultiple_Spins.md">How to Do Multiple Spins<a>
+4. <a href="./advanced-L1/4_Spin_Variations.md">Advanced Spin Variations & Musicality<a>
+5. <a href="./advanced-L1/5_adding_LocksDrops.md">Adding Locks & Drops<a>
+6. <a href="./advanced-L1/6_moreSpin_variations.md">More Spin Variations: Barrel Turns<a>
+7. <a href="./advanced-L1/7_mSV_UnderarmTurn.md">More Spin Variations: Underarm Turns<a>
+8. <a href="./advanced-L1/8_Tornado_Spins.md">Tornado Spins<a>
+9. <a href="./advanced-L1/9_Spinning_OneLeg.md">Spinning on One Leg<a>
+10. <a href="./advanced-L1/10_Patterns.md">Patterns for Practice<a>
