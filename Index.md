@@ -57,3 +57,15 @@
 10. <a href="./intermediate-L1/10_dngDirectional_Turns_wPartner.md">Doing Directional Turns With a Partner</a>
 11. <a href="./intermediate-L1/11_dngTwistTurn_Partnerwork.md">Doing Twist & Turn With a Partner</a>
 12. <a href="./intermediate-L1/12_Patterns.md">Patterns for Practice</a>
+
+### Level 2: Musicality
+
+1. <a href="./intermediate-L2/1_Bachata_musicality.md">Introduction to Bachata Musicality</a>
+2. <a href="./intermediate-L2/2_dncing_WholesNotes.md">Dancing to Whole Notes</a>
+3. <a href="./intermediate-L2/3_dncng_HalfNotes.md">Dancing to Half Notes</a>
+4. <a href="./intermediate-L2/4_dncng_EighthNotes.md">Dancing to Eighth Notes (Syncopations)</a>
+5. <a href="./intermediate-L2/5_dncng_BassBeat.md">Dancing to the Bass Beat</a>
+6. <a href="./intermediate-L2/6_finding1_TimingChanges.md">Finding the 1 & Timing Changes</a>
+7. <a href="./intermediate-L2/7_dncDifferent_partsSong.md">How to Dance to Different Parts of a Song</a>
+8. <a href="./intermediate-L2/8_musicality_wPierreHenrry.md">Guest Workshop: Bachata Musicality with Pierre Henry</a>
+9. <a href="./intermediate-L2/9_Patterns.md">Patterns for Practice</a>
