@@ -40,3 +40,20 @@
 7. <a href="./beginner-L3/7_doing_sideBodyRoll_wPartner.md">Doing the Side Body Roll (From Shoulder) With a Partner</a>
 8. <a href="./beginner-L3/8_s2s_sideBoryRoll_wPartner.md">Doing the Side to Side Body Roll With a Partner</a>
 9. <a href="./beginner-L3/9_Patterns.md">Patterns for Practice</a>
+
+## Bachata Intermediate
+
+### Level 1: Movement Quality & New Turns
+
+1. <a href="./intermediate-L1">Adding Figure 8 Hip Motion to Your Basic</a>
+2. <a href="./intermediate-L1">Another Option: Side to Side Hip Motion</a>
+3. <a href="./intermediate-L1">Some Basic Ladies' Arm Styling Options</a>
+4. <a href="./intermediate-L1">Some Basic Men's Arm Styling Options</a>
+5. <a href="./intermediate-L1">Turning Using Angles: Directional Turns</a>
+6. <a href="./intermediate-L1">Turning on the Spot: Twist & Turn</a>
+7. <a href="./intermediate-L1">Doing Figure 8 Hips With a Partner</a>
+8. <a href="./intermediate-L1">Doing Side to Side Hips With a Partner</a>
+9. <a href="./intermediate-L1">Doing Arm Styling With a Partner</a>
+10. <a href="./intermediate-L1">Doing Directional Turns With a Partner</a>
+11. <a href="./intermediate-L1">Doing Twist & Turn With a Partner</a>
+12. <a href="./intermediate-L1">Patterns for Practice</a>
