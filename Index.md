@@ -97,3 +97,26 @@
 8. <a href="./advanced-L1/8_Tornado_Spins.md">Tornado Spins<a>
 9. <a href="./advanced-L1/9_Spinning_OneLeg.md">Spinning on One Leg<a>
 10. <a href="./advanced-L1/10_Patterns.md">Patterns for Practice<a>
+
+### Level 2: Advanced Body Movement & Isolations
+
+1. <a href="./advanced-L2/1_Head_Rolls.md">Let's Learn Head Rolls</a>
+2. <a href="./advanced-L2/2_addShoulder_isolations.md">Adding Shoulder Isolations</a>
+3. <a href="./advanced-L2/3_plyng_wTorsoIsolations.md">Playing With Torso Isolations</a>
+4. <a href="./advanced-L2/4_Hip_Isolations_variations.md">Hip Isolation Variations</a>
+5. <a href="./advanced-L2/5_Leg_Isolations.md">Leg Isolations</a>
+6. <a href="./advanced-L2/6_Lowering_wMultipleRolls.md">Some Advanced Body Roll Options</a>
+7. <a href="./advanced-L2/7_Stationary_Isolation_Practice.md">Let's Practice Without the Basic</a>
+8. <a href="./advanced-L2/8_Lean_Back.md">The Lean Back</a>
+9. <a href="./advanced-L2/9_Patterns.md">Patterns for Practice</a>
+
+### Level 3: Exploring Different Styles
+
+1. <a href="./advanced-L3/1_Traditional_footwork.md">Let's Start With Traditional Footwork (Solo)</a>
+2. <a href="./advanced-L3/2_Modern_footwork.md">Moving on to Modern Footwork (Solo)</a>
+3. <a href="./advanced-L3/3_Sensual_footwork.md">Now for Some Sensual Footwork (Solo)</a>
+4. <a href="./advanced-L3/4_Traditional_partnerwork.md">Adding a Partner: Traditional Partner Work</a>
+5. <a href="./advanced-L3/5_Modern_partnerwork.md">Modern Partner Work</a>
+6. <a href="./advanced-L3/6_Sensual_partnerwork.md">Sensual Partner Work</a>
+7. <a href="./advanced-L3/7_FusingStyles_Together.md">Fusing the Styles Together</a>
+
